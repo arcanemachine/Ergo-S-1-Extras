@@ -1,40 +1,25 @@
-# Ergo S-1 Wireless Keyboard
+# Ergo S-1 Extras
 
-![Image_of_Rev0](https://github.com/wizarddata/Ergo-S-1/blob/main/Images/overhead_angle.jpg)
+This repo is intended to offer extra information that may be useful when building your [Ergo S-1 keyboard](https://github.com/wizarddata/Ergo-S-1).
 
-_More Pictures_: https://wizardkeyboards.com/gallery/
+If you want to build the keyboard, see [the original repo for this project](https://github.com/wizarddata/Ergo-S-1).
 
-_Firmware_: https://github.com/wizarddata/zmk/tree/Ergo_S-1_OE
+## Extra purchase list info
 
-_Assembly Instructions & BOM_: https://github.com/wizarddata/Ergo-S-1/blob/main/Ergo%20S-1%20OE%20Assembly%20Instructions.pdf
+This document has some information and pictures that can be used to help guide your purchase decisions when building your Ergo S-1 keyboard.
 
-_Customize the keyboard layout_: https://github.com/arcanemachine/zmk-ergo-s-1
+[Extra purchase list info](https://github.com/arcanemachine/Ergo-S-1/blob/main/extra-purchase-list-info.md)
 
-**What Is it?**  
->The Ergo S-1 is a fully wireless, split ergonomic keyboard that is compatible with cherry/gateron switches and cherry/oem/dcs keycaps. It runs on the fantastic ZMK firmware.
+## Customize the firmware
 
-**Why Is It?**  
->I love ergonomic keyboards. My first keyboard that I built was an Atreus, and how accessible that was for a beginner stuck with me. While I was unemployed in 2021 I spent my time designing an ergonomic keyboard that would be easy for a anyone to build.  
-This is the first step in acheiving that goal. The cases are designed to give you easy access to the switches for hand wiring. There's a parts list included for everything else that you'll need.
+If you want to customize the keymaps and/or build your own version of the ZMK firmware for this keyboard, check out [this repo](https://github.com/arcanemachine/zmk-ergo-s-1).
 
-**What Switches / Keycaps Can I Use?**  
->This layout was designed to be compatible with standard **cherry/oem 104-key** keycap sets. DCS is also compatible, but DSA or SA will not work on all keys due to the keywell shape.  
-This case is compabilbe with **cherry mx and gateron switches**. The switches are held in place by the recess in the sides, so alternate designs like kailh or otemu will not fit.
+## TODO
 
-**Can You Make Me One?**  
->While this case is open source and free for anyone to build on their own, it can be challenging to get the print just right. So I have some available in my Etsy store.  
->https://www.etsy.com/shop/WizardKeyboards
+This forked repo is a work in progress. See the todo list here:
 
-**Do You Make A Complete Kit?**  
->Not yet, but I'm working on it! At this time you need to source switches, keycaps, and electronics from other vendors. I've included links with the recommended hardware list to make this as easy as possible.  
-If an (even) easier to assemble kit is something you want, let me know! I'm working as hard as I can to get that done.
+[TODO](https://github.com/arcanemachine/Ergo-S-1/blob/main/TODO.md)
 
-**This Is Great! How Can I Help?**  
->The best thing you can do to help me is to share my work! The more popular this design becomes, the easier it will be for me to get to make kits or even assembled keyboards.
+## License
 
-**Which license is this project released under?**
->The hardware and associated documentation is released under CERN OHL-S v2. Full license text is available in the SOURCE folder.  
->OSHWA UID US002119
-
-**How can I build my own custom firmware with a customized keymap?**
->Follow the instructions at this repo: https://github.com/arcanemachine/zmk-ergo-s-1
+The content of this forked repo is subject to the MIT-0 license. Any derivative works from the original Ergo S-1 repo are subject to [the CERN-OHL-S v2 licence](https://spdx.org/licenses/CERN-OHL-S-2.0.html) as described in [the original Ergo S-1 repo](https://github.com/wizarddata/Ergo-S-1/commit/58e50b198b7f7b34e3af4004d18da98f1de46546#diff-fd715bfdd30476d39e0594585a4c7730567b89caf4fce2f8d88e4f4b1bb5ec4e).
