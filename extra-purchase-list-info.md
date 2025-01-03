@@ -177,10 +177,8 @@ USB C Round Panel Mount Extension Cable
 The AliExpress version of this product doesn't fit in the [original printed keyboard case](https://github.com/wizarddata/Ergo-S-1).
 
 Here are some of the options available:
-	- If you are able to buy the adapter from Adafruit, then you can just use the default version of the print.
-	- If you bought a different version of the adapter that will not fit the default version of the printed keyboard case, then you have 2 options:
-		- Print a small adapter so that your adapter can fit into the original printed keyboard case. (*** LINK COMING SOON ***)
-		- Print my modified keyboard case (*** LINK COMING SOON ***) that allows you to use the adapter without any further modifications.
+  - If you are able to buy the adapter from Adafruit, then you can just use the default version of the print.
+  - If you bought a different version of the adapter that will not fit the printed keyboard case, then you can [print a small adapter](STL/usb-mount-adapter.stl) that I made so that the adapter can fit into the original printed keyboard case.
 
 ### Images
 
