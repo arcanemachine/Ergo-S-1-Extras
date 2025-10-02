@@ -26,7 +26,7 @@ Since it's licensed [CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/),
 
 To keep everything from sliding around, I put a big rubber mat under my keybaord. For maximum cheapskate-ness, I used a kitchen drawer liner mat that I got at the dollar store.
 
-I also used [a couple of these 3d-printed "washers"](https://github.com/arcanemachine/Ergo-S-1/blob/main/STL/tenting-stand-mount.stl) (and 2 M4x15mm screws) to secure the bottom of the keyboard to the tenting stand (it attaches to one of the heat-set inserts on the bottom). Not perfect, but better than just letting the keyboard just sit on the tenting stand.
+I also used [a couple of these 3d-printed "washers"](https://github.com/arcanemachine/Ergo-S-1/blob/main/STL/tenting-stand-mount.stl) (and 2 M4x15mm screws) to secure the bottom of the keyboard to the tenting stand (it screws into one of the heat-set inserts on the bottom of the keyboard). It works a lot better than just letting the keyboard just sit on the tenting stand.
 
 ![Image of tenting stand washer](Images/tenting-stand-washer-usage.jpg)
 

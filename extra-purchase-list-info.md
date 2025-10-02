@@ -1,14 +1,10 @@
 # Extra Purchase List Info
 
-> WARNING: Some of the information in this document is unconfirmed or may recommend customized parts that I haven't created yet. However, most of the information in this document can currently be used to help guide your purchasing decisions. See [TODO.md](TODO.md) for more specific info.
-
----
-
-> NOTE: The information in this document complements (but does not replace) the information in the official assembly instructions. Ensure that you read both.
+> NOTE: The information in this document complements (but does not replace) the information in the [official assembly instructions](https://github.com/wizarddata/Ergo-S-1/blob/main/Ergo%20S-1%20OE%20Assembly%20Instructions.pdf). Ensure that you read both.
 
 This document is meant to add some helpful info to the purchase list in the official assembly instructions, e.g. add some context, backup links, images, etc. It also adds links to some AliExpress and Amazon listings so that non-American users can easily purchase the required materials. Archive links are included whenever possible so that info is available if any of the live links go offline.
 
-> DISCLAIMER: This document uses images from AliExpress, McMaster-Carr, and Amazon. The use of these images is non-commercial and educational. No affiliate links are used.
+> DISCLAIMER: This document uses images from AliExpress, McMaster-Carr, and Amazon. The use of these images should qualify as fair use, as their usage is non-commercial and educational. No affiliate links are used in this document, and I stand to gain no financial benefit if you purchase anything listed on this page.
 
 ## 12x M4 Heat Set Inserts
 
@@ -294,7 +290,7 @@ This can be used to make it easier to swap out batteries. Also, this makes it ea
 
 ### Notes
 
-- The battery holder can be held in place with the [mounting squares](#double-sided-tape). I attached mine in the area with the two screw holes in the bottom of the keyboard.
+- The battery holder can be held in place with the [mounting squares](#double-sided-tape). I attached mine in the area with on the "outside" (closer to the A or L keys, not the G or H keys) screw holes in the bottom of the keyboard.
 
 ### Images
 
@@ -303,7 +299,8 @@ This can be used to make it easier to swap out batteries. Also, this makes it ea
 ### Links
 
 - AliExpress: https://www.aliexpress.com/item/1005002592649419.html
-    - NOTE: The linked item comes in a 3-pack of single-battery holders.
-		- Stick with the single-battery holder. A single battery will be sufficient to power the keyboard for months.
+  - NOTE: The linked item comes in a 3-pack of single-battery holders.
+  - You only need a single-battery holder. A single battery will be sufficient to power the keyboard for months.
+  - Warning: The linked item says not to use the battery holder when charging. I have used it while charging without any issues, but am passing the warning along nonetheless. (The battery charges very slowly, so I believe there is minimal risk of melting, fires, etc.)
 
 - AliExpress (archive link): https://archive.ph/wip/vdJLO
