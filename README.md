@@ -16,23 +16,21 @@ If you want to customize the keymaps and/or build your own version of the ZMK fi
 
 ## Printable tenting stand
 
-I found a 3d-printable stand on Thingiverse which works well as a 20-to-40-degree tenting stand for the Ergo S-1:
+I found a 3d-printable tablet stand on Thingiverse which works well as an adjustable tenting stand for the Ergo S-1:
 
 - [Thingiverse - Print-in-Place Netbook&Tablet Stand](https://www.thingiverse.com/thing:4861555)
+
+![Image of tenting stand](Images/tenting-stand.jpg)
 
 Since it's licensed [CC BY-NC](https://creativecommons.org/licenses/by-nc/4.0/), I added [a copy of the STL](https://github.com/arcanemachine/Ergo-S-1/blob/main/STL/tenting-stand.stl) to this repo.
 
 To keep everything from sliding around, I put a big rubber mat under my keybaord. For maximum cheapskate-ness, I used a kitchen drawer liner mat that I got at the dollar store.
 
-I also used [a couple of these 3d-printed "washers"](https://github.com/arcanemachine/Ergo-S-1/blob/main/STL/tenting-stand-mount.stl) (and 2 M4x15mm screws) to secure the bottom of the keyboard to the tenting stand (it attaches to one of the heat-set inserts on the bottom). Not perfect, but better than just letting the keyboard just sit on the tenting stand. 
+I also used [a couple of these 3d-printed "washers"](https://github.com/arcanemachine/Ergo-S-1/blob/main/STL/tenting-stand-mount.stl) (and 2 M4x15mm screws) to secure the bottom of the keyboard to the tenting stand (it attaches to one of the heat-set inserts on the bottom). Not perfect, but better than just letting the keyboard just sit on the tenting stand.
+
+![Image of tenting stand washer](Images/tenting-stand-washer-usage.jpg)
 
 Thanks to [mishkin2](https://www.thingiverse.com/mishkin2/designs) for this excellent creation!
-
-## TODO
-
-This forked repo is a work in progress. See the todo list here:
-
-[TODO](https://github.com/arcanemachine/Ergo-S-1/blob/main/TODO.md)
 
 ## Licenses
 
